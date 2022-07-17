@@ -1,6 +1,4 @@
-# Konexio
-
-## Test technique DigiTous
+# Test technique d'entrée Konexio
 
 ### Prérequis\*\*
 
@@ -35,7 +33,7 @@ Barème sur 35
 
 Reproduire cette image en page HTML et CSS.
 
-![](Aspose.Words.1b780241-48b3-4271-9290-242280f045a4.001.png)
+![Aspose](Aspose.Words.1b780241-48b3-4271-9290-242280f045a4.001.png)
 
 ## JavaScript
 
@@ -43,9 +41,9 @@ Ecrire une boucle en JavaScript qui permettra d’afficher dans la console tous 
 
 Dans l’exemple ci-dessous, la variable “nb” est égale à 15.
 
-![](Aspose.Words.1b780241-48b3-4271-9290-242280f045a4.002.png)
+![Aspose](Aspose.Words.1b780241-48b3-4271-9290-242280f045a4.002.png)
 
-![](Aspose.Words.1b780241-48b3-4271-9290-242280f045a4.003.png)
+![Aspose](Aspose.Words.1b780241-48b3-4271-9290-242280f045a4.003.png)
 
 Utiliser le site suivant : [https://codepen.io](https://codepen.io/)
 
