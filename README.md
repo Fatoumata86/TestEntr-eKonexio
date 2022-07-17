@@ -19,15 +19,15 @@ Vous avez le droit d’ajouter d’autres ressources trouvées sur internet si c
 
 Barème sur 35
 
--   HTML / CSS (25pts)
-    -   Général (5pts)
-    -   Barre de navigation (6pts)
-    -   A propos (4pts)
-    -   Services (6pts)
-    -   Contact (4pts)
--   JavaScript (10pts)
+    -HTML / CSS (25pts)
+        -   Général (5pts)
+        -   Barre de navigation (6pts)
+        -   A propos (4pts)
+        -   Services (6pts)
+        -   Contact (4pts)
+    -JavaScript (10pts)
 
-○ Table de multiplication (10pts)
+    -Table de multiplication (10pts)
 
 ## HTML / CSS
 
