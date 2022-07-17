@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+}
+
+@font-face {
+    font-family: JosefinSans;
+    src: local("JosefinSans-Light") 
+         local("JosefinSans-SemiBold")
+}
+
+nav {
+    background-color: orangered;
+    display: flex;
+    height: 45px;
+    justify-content: flex-end;
+}
+
+nav ul {
+    display: flex;
+    margin: 0;
+    list-style: none;
+    padding: 12px;
+}
+
+nav li a {
+    margin-left: 15px;
+    font-family: "JosefinSans-Light";
+    color: white;
+    text-decoration: none;
+}
+
+nav h2 {
+    position: absolute;
+    color: white;
+    margin: 0;
+    padding: 10px 15px;
+    font-size: 23px;
+    font-family: "JosefinSans-SemiBold";
+    left: 20px;
+}
+.header {
+    position: relative;
+    text-align: center;
+    display: flex;
+}
+.header img {
+    width: 100%;
+    height: 30%;
+}
+
+.header-text{
+    color: orangered;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.missions {
+    background-color: orangered;
+    display: flex;
+    position: relative;
+}
+
+.missions h4 {
+    color: white;
+    text-align: center;
+    position: absolute;
+    bottom: 85%;
+    left: 50%;
+}
+.missions img {
+    width: 20%;
+    text-align: center;
+    padding: 40px 30px 40px 0px;
+}
+
+.miss1 {
+    text-align: left;
+    color: white;
+    margin:7% 0% 0% 2%;
+    font-size: 12px;
+}
+.miss2 {
+    text-align: right;
+    color: white;
+    margin:7% 2% 0% 0%;
+    font-size: 12px;
+}
+
+.produits h4 {
+    position: absolute;
+    left: 20px;
+}
+
+.produits {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    float: left;
+    width: 20%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin: 40px 25px 40px 25px;
+    padding-bottom: 25px;
+}
+
+.card img {
+    width: 101%;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.card p {
+    margin-top: 5px;
+}
+
+.card button {
+    border-radius: 5px;
+    border-color: orangered;
+    color: orangered;
+    text-align: center;
+}
+
+footer {
+    background-color: orangered;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+}
+
+.abonner button {
+border-radius: 7px;
+border-color: white;
+background-color: orangered;
+color: white;
+text-align: center;
+margin: 8px 0;
+padding: 5px 0;
+}
+
+.abonner label{
+    margin: 8px 0;
+    text-align: center;
+}
+
+.abonner input {
+    margin: 8px 0;
+}
+
+.abonner {
+    display: grid;
+}
