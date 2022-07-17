@@ -1,14 +1,14 @@
-#Konexio
+# Konexio
 
-##Test technique DigiTous
+## Test technique DigiTous
 
-###Prérequis\*\*
+### Prérequis\*\*
 
 -   Un ordinateur
 -   Un navigateur web à jour. Comme Google Chrome que vous pouvez télécharger ici : https://www.google.com/intl/en\_us/chrome/
 -   Le logiciel Visual Studio Code (VSCode) installé. Logiciel open-source et gratuit que vous pouvez télécharger ici : https://code.visualstudio.com/
 
-###Ce que l’on vous a fourni\*\*
+### Ce que l’on vous a fourni\*\*
 
 On vous a fourni un fichier zip contenant :
 
@@ -31,13 +31,13 @@ Barème sur 35
 
 ○ Table de multiplication (10pts)
 
-##HTML / CSS
+## HTML / CSS
 
 Reproduire cette image en page HTML et CSS.
 
 ![](Aspose.Words.1b780241-48b3-4271-9290-242280f045a4.001.png)
 
-##JavaScript
+## JavaScript
 
 Ecrire une boucle en JavaScript qui permettra d’afficher dans la console tous les nombres paires entre 0 et "nb".
 
@@ -55,7 +55,7 @@ Ensuite, cliquer sur le petit bouton en bas à gauche qui s’appelle “Console
 
 _N.B : Vous pouvez utiliser d’autres sites ou d’autres moyens pour écrire votre code JavaScript, le principal est que vous nous envoyez votre code dans un fichier “table.txt” avec votre code HTML / CSS._
 
-###Ce que vous devez nous fournir
+### Ce que vous devez nous fournir
 
 **Avant la date qui vous a été donné dans l’email, merci de nous envoyer :**
 
@@ -70,7 +70,7 @@ Un dossier compressé en ZIP avec :
 
 Bon code et nous attendons votre email :-)
 
-###Annexe
+### Annexe
 
 Quelques sites pour vous aider :
 
@@ -80,6 +80,6 @@ Quelques sites pour vous aider :
 -   JavaScript : La partie 1, spécialement le chapitre 6 sera le chapitre qui vous donnera les clés pour réussir l’exercice <https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript>
 -   CSS Flexbox : <https://la-cascade.io/flexbox-guide-complet/>
 
-###Astuces
+### Astuces
 
 -   Cherchez des templates de “landing page” en ligne faits par d’autres personnes et faites un clic droit sur la page, puis cliquer sur “Afficher le code source”… Surprise !
