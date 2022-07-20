@@ -43,7 +43,7 @@ Dans l’exemple ci-dessous, la variable “nb” est égale à 15.
 
 ![Codepenio](Codepenio.png)
 
-![Resultatcodepenio](Resultatcodepenio.png)
+<img align="center" src="./img/Resultatcodepenio.png" alt="Resultat attendu">
 
 Utiliser le site suivant : [https://codepen.io](https://codepen.io/)
 
