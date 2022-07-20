@@ -33,7 +33,7 @@ Barème sur 35
 
 Reproduire cette image en page HTML et CSS.
 
-![Aspose](Aspose.png)
+![Aspose](./img/Aspose.png)
 
 ## JavaScript
 
@@ -41,7 +41,7 @@ Ecrire une boucle en JavaScript qui permettra d’afficher dans la console tous 
 
 Dans l’exemple ci-dessous, la variable “nb” est égale à 15.
 
-![Codepenio](Codepenio.png)
+![Codepenio](./img/Codepenio.png)
 
 <img align="center" src="./img/Resultatcodepenio.png" alt="Resultat attendu">
 
